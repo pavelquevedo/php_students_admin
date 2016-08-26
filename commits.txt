@@ -1,0 +1,11 @@
+commit 84c93f54e33fd659281bddc4ec6050ed26f8405e
+Author: Pavel <pavelquevedo@outlook.com>
+Date:   Thu Aug 25 20:50:19 2016 -0600
+
+    Se cambio la url del sitio
+
+commit ddda73e60d27fa95224e744ed2c6c4c49d7b0cf5
+Author: Pavel <pavelquevedo@outlook.com>
+Date:   Thu Aug 25 20:45:59 2016 -0600
+
+    Se realiza carga inicial del proyecto -v1
