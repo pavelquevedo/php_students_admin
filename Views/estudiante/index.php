@@ -3,7 +3,7 @@
  		<h3 class="panel-title">Listado de estudiantes</h3>
  	</div>
  	<div class="panel-body">
- 		<table class="table table-stripped table-hover">
+ 			<table class="table table-stripped table-hover">
  			<thead>
  				<tr>
  					<th>Imagen</th>
