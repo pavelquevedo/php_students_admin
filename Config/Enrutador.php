@@ -26,7 +26,7 @@
 
 			//Cargar vista
 			$ruta = ROOT . "Views" . DS . $request->getControlador() . DS . $request->getMetodo() . ".php";
-			print "<br>".$ruta;
+			//print "<br>".$ruta;
 			if(is_readable($ruta)){
 				include_once $ruta;
 			}else{
