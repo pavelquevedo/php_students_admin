@@ -1,6 +1,6 @@
  <div class="panel panel-success">
  	<div class="panel-heading">
- 		<h3 class="panel-title">Listado de estudiantes</h3>
+ 		<h2 class="panel-title">Listado de estudiantes</h2>
  	</div>
  	<div class="panel-body">
  			<table class="table table-stripped table-hover">
