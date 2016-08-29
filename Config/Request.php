@@ -27,7 +27,7 @@
 
 
 			}else{
-				echo "string";
+				//echo "string";
 				$this->controlador = "estudiante";
 				$this->metodo = "index";
 			}
