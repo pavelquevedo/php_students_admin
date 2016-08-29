@@ -24,11 +24,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		      </button>
-<<<<<<< HEAD
 		      <a class="navbar-brand" href="#">Administrador de Estudiantes</a>
-=======
-		      <a class="navbar-brand" href="#">Students Admin Hola</a>
->>>>>>> origin/master
 		    </div>
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
 		      <ul class="nav navbar-nav">
